@@ -5,8 +5,6 @@ This project scrapes data from Wikipedia pages of Disney movies using BeautifulS
 ## Table of Contents
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
